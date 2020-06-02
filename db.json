@@ -1,0 +1,85 @@
+{
+"products": [
+{
+  "id": 1,
+  "name": "Cattle egret",
+  "category": "Pink"
+}, {
+  "id": 2,
+  "name": "Sloth, two-toed",
+  "category": "Yellow"
+}, {
+  "id": 3,
+  "name": "Pale-throated three-toed sloth",
+  "category": "Teal"
+}, {
+  "id": 4,
+  "name": "Red-breasted cockatoo",
+  "category": "Purple"
+}, {
+  "id": 5,
+  "name": "Caiman, spectacled",
+  "category": "Aquamarine"
+}, {
+  "id": 6,
+  "name": "Red-tailed phascogale",
+  "category": "Red"
+}, {
+  "id": 7,
+  "name": "Whale, southern right",
+  "category": "Goldenrod"
+}, {
+  "id": 8,
+  "name": "Macaque, bonnet",
+  "category": "Goldenrod"
+}, {
+  "id": 9,
+  "name": "Amazon parrot (unidentified)",
+  "category": "Khaki"
+}, {
+  "id": 10,
+  "name": "House sparrow",
+  "category": "Puce"
+}, {
+  "id": 11,
+  "name": "Cardinal, red-capped",
+  "category": "Maroon"
+}, {
+  "id": 12,
+  "name": "Snake (unidentified)",
+  "category": "Green"
+}, {
+  "id": 13,
+  "name": "Pintail, white-cheeked",
+  "category": "Turquoise"
+}, {
+  "id": 14,
+  "name": "Water legaan",
+  "category": "Orange"
+}, {
+  "id": 15,
+  "name": "Macaque, pig-tailed",
+  "category": "Aquamarine"
+}, {
+  "id": 16,
+  "name": "Chilean flamingo",
+  "category": "Blue"
+}, {
+  "id": 17,
+  "name": "Bulbul, african red-eyed",
+  "category": "Pink"
+}, {
+  "id": 18,
+  "name": "Colobus, black and white",
+  "category": "Indigo"
+}, {
+  "id": 19,
+  "name": "Spotted hyena",
+  "category": "Crimson"
+}, {
+  "id": 20,
+  "name": "Possum, common brushtail",
+  "category": "Blue"
+}
+]
+}
